@@ -1,0 +1,170 @@
+{
+    "806": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.0,
+        "DeltaY": 0.0,
+        "DeltaZ": -0.001
+    },
+    "807": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.0,
+        "DeltaY": 0.0,
+        "DeltaZ": 0.0
+    },
+    "809": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.0,
+        "DeltaZ": 0.0
+    },
+    "810": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.002,
+        "DeltaY": 0.001,
+        "DeltaZ": 0.0
+    },
+    "811": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.0,
+        "DeltaY": -0.001,
+        "DeltaZ": 0.0
+    },
+    "821": {
+        "session": "2860",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": -0.002,
+        "DeltaY": -0.002,
+        "DeltaZ": -0.001
+    },
+    "411": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.0,
+        "DeltaY": 0.002,
+        "DeltaZ": 0.0
+    },
+    "413": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.003,
+        "DeltaY": 0.0,
+        "DeltaZ": 0.0
+    },
+    "414": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.004,
+        "DeltaY": -0.002,
+        "DeltaZ": -0.001
+    },
+    "415": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.001,
+        "DeltaZ": -0.008
+    },
+    "416": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.001,
+        "DeltaZ": 0.001
+    },
+    "417": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.004,
+        "DeltaY": 0.005,
+        "DeltaZ": -0.01
+    },
+    "418": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.151752Z",
+        "DeltaX": 0.003,
+        "DeltaY": 0.002,
+        "DeltaZ": -0.001
+    },
+    "419": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.004,
+        "DeltaY": 0.0,
+        "DeltaZ": -0.001
+    },
+    "420": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.005,
+        "DeltaZ": 0.0
+    },
+    "421": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.001,
+        "DeltaZ": 0.001
+    },
+    "422": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": -0.001,
+        "DeltaY": 0.002,
+        "DeltaZ": -0.005
+    },
+    "423": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.0,
+        "DeltaY": -0.001,
+        "DeltaZ": 0.001
+    },
+    "482": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.005,
+        "DeltaY": -0.008,
+        "DeltaZ": 0.0
+    },
+    "483": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.019,
+        "DeltaY": -0.031,
+        "DeltaZ": 0.002
+    },
+    "484": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.006,
+        "DeltaY": 0.01,
+        "DeltaZ": -0.006
+    },
+    "486": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.014,
+        "DeltaY": 0.004,
+        "DeltaZ": -0.021
+    },
+    "487": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": -0.003,
+        "DeltaY": -0.003,
+        "DeltaZ": 0.001
+    },
+    "488": {
+        "session": "3658",
+        "timestamp": "2024-03-07T07:59:42.152751Z",
+        "DeltaX": 0.001,
+        "DeltaY": 0.0,
+        "DeltaZ": 0.0
+    }
+}
